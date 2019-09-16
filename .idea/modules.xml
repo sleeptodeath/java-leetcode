@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/001_Two_Sum/001_Two_Sum.iml" filepath="$PROJECT_DIR$/001_Two_Sum/001_Two_Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/007_Reverse_Integer/007_Reverse_Integer.iml" filepath="$PROJECT_DIR$/007_Reverse_Integer/007_Reverse_Integer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/013_Roman_To_Integer/013_Roman_To_Integer.iml" filepath="$PROJECT_DIR$/013_Roman_To_Integer/013_Roman_To_Integer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/014_Longest_Common_Prefix/014_Longest_Common_Prefix.iml" filepath="$PROJECT_DIR$/014_Longest_Common_Prefix/014_Longest_Common_Prefix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/020_Valid_Parentheses/020_Valid_Parentheses.iml" filepath="$PROJECT_DIR$/020_Valid_Parentheses/020_Valid_Parentheses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/021_Merge_Two_Sorted_Lists/021_Merge_Two_Sorted_Lists.iml" filepath="$PROJECT_DIR$/021_Merge_Two_Sorted_Lists/021_Merge_Two_Sorted_Lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/026_Remove_Duplicates_From_Sorted_Array/026_Remove_Duplicates_From_Sorted_Array.iml" filepath="$PROJECT_DIR$/026_Remove_Duplicates_From_Sorted_Array/026_Remove_Duplicates_From_Sorted_Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/027_Remove_Element/027_Remove_Element.iml" filepath="$PROJECT_DIR$/027_Remove_Element/027_Remove_Element.iml" />
+      <module fileurl="file://$PROJECT_DIR$/028_Implement_StrStr/028_Implement_StrStr.iml" filepath="$PROJECT_DIR$/028_Implement_StrStr/028_Implement_StrStr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/035_Search_Insert_Position/035_Search_Insert_Position.iml" filepath="$PROJECT_DIR$/035_Search_Insert_Position/035_Search_Insert_Position.iml" />
+    </modules>
+  </component>
+</project>
