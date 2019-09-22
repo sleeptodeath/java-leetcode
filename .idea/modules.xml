@@ -12,6 +12,16 @@
       <module fileurl="file://$PROJECT_DIR$/027_Remove_Element/027_Remove_Element.iml" filepath="$PROJECT_DIR$/027_Remove_Element/027_Remove_Element.iml" />
       <module fileurl="file://$PROJECT_DIR$/028_Implement_StrStr/028_Implement_StrStr.iml" filepath="$PROJECT_DIR$/028_Implement_StrStr/028_Implement_StrStr.iml" />
       <module fileurl="file://$PROJECT_DIR$/035_Search_Insert_Position/035_Search_Insert_Position.iml" filepath="$PROJECT_DIR$/035_Search_Insert_Position/035_Search_Insert_Position.iml" />
+      <module fileurl="file://$PROJECT_DIR$/038_Count_and_Say/038_Count_and_Say.iml" filepath="$PROJECT_DIR$/038_Count_and_Say/038_Count_and_Say.iml" />
+      <module fileurl="file://$PROJECT_DIR$/053_Maximum_Subarray/053_Maximum_Subarray.iml" filepath="$PROJECT_DIR$/053_Maximum_Subarray/053_Maximum_Subarray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/058_Length_of_Last_Word/058_Length_of_Last_Word.iml" filepath="$PROJECT_DIR$/058_Length_of_Last_Word/058_Length_of_Last_Word.iml" />
+      <module fileurl="file://$PROJECT_DIR$/066_Plus_one/066_Plus_one.iml" filepath="$PROJECT_DIR$/066_Plus_one/066_Plus_one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/067_Add_Binary/067_Add_Binary.iml" filepath="$PROJECT_DIR$/067_Add_Binary/067_Add_Binary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/069_Sqrt/069_Sqrt.iml" filepath="$PROJECT_DIR$/069_Sqrt/069_Sqrt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/070_Climbing_Stairs/070_Climbing_Stairs.iml" filepath="$PROJECT_DIR$/070_Climbing_Stairs/070_Climbing_Stairs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/083_Remove_Duplicates_from_Sorted_List/083_Remove_Duplicates_from_Sorted_List.iml" filepath="$PROJECT_DIR$/083_Remove_Duplicates_from_Sorted_List/083_Remove_Duplicates_from_Sorted_List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/088_Merge_Sorted_Array/088_Merge_Sorted_Array.iml" filepath="$PROJECT_DIR$/088_Merge_Sorted_Array/088_Merge_Sorted_Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/100_Same_Tree/100_Same_Tree.iml" filepath="$PROJECT_DIR$/100_Same_Tree/100_Same_Tree.iml" />
     </modules>
   </component>
 </project>
